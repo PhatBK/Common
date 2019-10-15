@@ -1,3 +1,7 @@
 https://developer.mozilla.org/vi/docs/Web/Guide/HTML/HTML5
 
 http://html5test.com/s/5cdda23037071fd7.html
+
+https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e
+
+https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/
