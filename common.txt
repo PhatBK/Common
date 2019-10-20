@@ -7,3 +7,5 @@ https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-o
 https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/
 
 https://www.oreilly.com/library/view/palm-webos/9780596802097/
+
+https://docs.marklogic.com/guide/node-dev.pdf
