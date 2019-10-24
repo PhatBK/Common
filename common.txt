@@ -10,3 +10,5 @@ https://www.oreilly.com/library/view/palm-webos/9780596802097/
 
 https://docs.marklogic.com/guide/node-dev.pdf
 https://medium.com/@LaSoft/top-20-node-js-books-that-you-should-read-in-2018-2329d1dd64bc
+
+https://medium.com/@LaSoft/top-20-node-js-books-that-you-should-read-in-2018-2329d1dd64bc
